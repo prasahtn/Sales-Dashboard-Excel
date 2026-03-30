@@ -1,2 +1,37 @@
 # Sales-Dashboard-Excel
 Interactive Sales Dashboard built in Excel to analyze sales performance, target achievement, and regional insights using dynamic charts and slicers.
+
+This project is an interactive Sales Dashboard created using Microsoft Excel.
+It provides insights into sales performance, target achievement, and regional distribution through dynamic visualizations and filters.
+
+The dashboard helps in tracking key business metrics and supports better decision-making using data-driven insights.
+
+🎯 Key Features
+Total Sales analysis by Sales Executives
+Target Hit % and Away From Target % tracking
+Region-wise filtering using slicers
+Interactive charts (Bar, Pie, Line)
+Dynamic dashboard with real-time updates
+
+🛠️ Tools & Technologies Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers & Filters
+Data Cleaning & Transformation
+
+📊 Dashboard Insights
+Identifies top-performing sales executives
+Highlights target achievement gaps
+Shows region-wise performance trends
+Helps in analyzing sales distribution visually
+
+
+
+💡 Business Use Case
+
+This dashboard can be used by:
+
+Sales Managers to track team performance
+Businesses to monitor regional sales
+Analysts to derive actionable insights
