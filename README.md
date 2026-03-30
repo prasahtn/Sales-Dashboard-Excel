@@ -55,8 +55,8 @@ Sales Managers to track team performance
 
 Businesses to monitor regional sales
 
+Analysts to derive actionable insights
 
 
 DRIVE LINK- https://drive.google.com/drive/folders/19xZyODfqEMxF81TGJk1pfnsqVq0F-o8T?usp=drive_link 
 
-Analysts to derive actionable insights
